@@ -22,7 +22,7 @@ An easy to use multi purpose discord bot.
 1. Clone
 
 ```bash
-git clone https://github.com/mertssmnoglu/trust-bot
+git clone https://github.com/JayJasani/discord_bot
 ```
 
 2. Change Directory
