@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord Bot made with discord.js by mertssmnoglu",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "inquirer": "^8.2.1",
+    "ws": "^7.5.0"
+  },
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "discord-bot",
+    "open-source",
+    "discord",
+    "discord.js"
+  ],
+  "author": "jay"
+}
