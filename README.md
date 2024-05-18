@@ -44,9 +44,3 @@ node main.js
 ```
 
 5. !Bonus - If you do not have conf.json file please follow the console, it will generate a new config file for your bot.
-
-<hr>
-
-### License
-
-MIT Licensed. Read the License before use.
